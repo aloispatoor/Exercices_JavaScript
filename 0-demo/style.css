@@ -1,0 +1,19 @@
+.alert{
+    color:red;
+}
+
+#square{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius: 10px;
+    transition: all .3s ease-out;
+}
+
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+}

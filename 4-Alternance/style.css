@@ -1,0 +1,15 @@
+.square{
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+}
+
+#btn{
+    padding: 0.5em;
+    margin-top: 1em;
+}
+
+.blue{
+    background-color: blue;
+}
